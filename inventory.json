@@ -1,0 +1,36 @@
+[ "java.util.ArrayList", [ {
+  "@class" : "app.Weapon",
+  "name" : "Bow",
+  "description" : "Sharp, long, steele weapon",
+  "price" : 50.0,
+  "quantity" : 8,
+  "damageType" : "piercing"
+}, {
+  "@class" : "app.Health",
+  "name" : "Health",
+  "description" : "Restores health",
+  "price" : 25.0,
+  "quantity" : 13,
+  "duration" : 30
+}, {
+  "@class" : "app.Armor",
+  "name" : "Iron Chest Plate",
+  "description" : "Protective torso armor",
+  "price" : 75.0,
+  "quantity" : 5,
+  "material" : "iron"
+}, {
+  "@class" : "app.Armor",
+  "name" : "Iron Shield",
+  "description" : "Defensive shield",
+  "price" : 60.0,
+  "quantity" : 6,
+  "material" : "iron"
+}, {
+  "@class" : "app.Weapon",
+  "name" : "Sword",
+  "description" : "Sharp, long, steele weapon",
+  "price" : 50.0,
+  "quantity" : 9,
+  "damageType" : "slashing"
+} ] ]
